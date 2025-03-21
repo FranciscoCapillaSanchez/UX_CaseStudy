@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: Francisco Capilla Sánchez.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 21/03/2025
 
 Proyecto: 
 
@@ -20,17 +20,9 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  Francisco Capilla Sánchez     :octocat: https://github.com/FranciscoCapillaSanchez     
 
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
 
 <br>
@@ -40,7 +32,7 @@ Miembros:
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
-### 1.a User Reseach Plan
+### 1.a User Research Plan
 ![Método UX](img/Competitive.png) 
 -----
 
